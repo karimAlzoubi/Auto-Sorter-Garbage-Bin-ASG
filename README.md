@@ -13,12 +13,12 @@
 ## Technologies Used:
 <p>Microcontroller: Arduino for controlling sensors and actuators 🛠️.<p>
 <p>Sensors:<p>
-  <p>Ultrasonic Sensor: Measures distance and detects nearby objects 📏.<p>
-  <p>IR Sensor: Used to detect paper 📄 and plastic 🥤 waste.<p>
-  <p>Servo Motor: Moves sorting mechanisms to categorize waste ⚙️.<p>
-  <p>Proximity Sensor: Detects and identifies metal 🥫 waste.<p>
+<p>  **Ultrasonic Sensor:** Measures distance and detects nearby objects 📏.<p>
+<p>  **IR Sensor:** Used to detect paper 📄 and plastic 🥤 waste.<p>
+<p>  **Servo Motor:** Moves sorting mechanisms to categorize waste ⚙️.<p>
+<p>  **Proximity Sensor:** Detects and identifies metal 🥫 waste.<p>
 
 ##
 <p>🚀 Let's connect to collaborate and shape a beautiful future together! </p>
-<p>🌐 My LinkedIn : www.linkedin.com/in/karimx </p>
-<p>📩 My E-mail : mohammad.karimx@gmail.com </p>
+<p>🌐** My LinkedIn:** www.linkedin.com/in/karimx </p>
+<p>📩 **My E-mail:** mohammad.karimx@gmail.com </p>
