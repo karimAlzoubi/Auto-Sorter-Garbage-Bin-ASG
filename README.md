@@ -14,7 +14,7 @@
 <p>Microcontroller: Arduino for controlling sensors and actuators 🛠️.<p>
 <p>Sensors:<p>
 <p>  **Ultrasonic Sensor:** Measures distance and detects nearby objects 📏.<p>
-<p>  **IR Sensor:** Used to detect paper 📄 and plastic 🥤 waste.<p>
+<p>  **IR Sensor**: Used to detect paper 📄 and plastic 🥤 waste.<p>
 <p>  **Servo Motor:** Moves sorting mechanisms to categorize waste ⚙️.<p>
 <p>  **Proximity Sensor:** Detects and identifies metal 🥫 waste.<p>
 
