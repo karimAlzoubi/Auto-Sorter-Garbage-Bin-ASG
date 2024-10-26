@@ -1,6 +1,4 @@
 # Auto-Sorter Garbage Bin (ASG) Project
-
-## Overview
 <p>The Auto-Sorter Garbage Bin (ASG) is an innovative solution designed to enhance waste management through automated sorting. Utilizing Internet of Things (IoT) technology and intelligent sensors, this project aims to separate waste into different categories efficiently, promoting recycling ♻️ and sustainability 🌍.<p>
 
 ## Features:
